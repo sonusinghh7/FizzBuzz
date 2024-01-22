@@ -4,6 +4,8 @@
  for multiples of 5, print "Buzz.'''
 
 
+# using while loop
+
 i=0
 while i<100:
     i=i+1
@@ -13,7 +15,9 @@ while i<100:
         print(i,"Buzz")
     else:
         print(i)
-    
+
+
+# using for loop
     
 # for i in range(1, 101):
 #     if i % 3 == 0:
